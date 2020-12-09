@@ -1,0 +1,26 @@
+{
+  "name": "Good Worker",
+  "description": "Persevere to the end. Finishing what you start and working hard to get there is a bigger deal to your employer than you might think. It’s important to not give up and be sure to remain committed and ambitious. Work hard to get where you want to be and have the confidence to succeed.",
+  "equipment": [
+    {
+      "name": "Dirty Hair",
+      "points": 625
+    },
+    {
+      "name": "Sword Master",
+      "points": 560
+    },
+    {
+      "name": "Shaved Chest",
+      "points": 721
+    },
+    {
+      "name": "Worker Tool",
+      "points": 419
+    },
+    {
+      "name": "Clean Shoes",
+      "points": 70
+    }
+  ]
+}

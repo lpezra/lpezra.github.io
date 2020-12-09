@@ -1,0 +1,26 @@
+{
+  "name": "Business Man",
+  "description": "He is a person involved in the business sector for the purpose of generating cash flow, sales, and revenue by utilizing a combination of human, financial, intellectual and physical capital with a view to fueling economic development and growth.",
+  "equipment": [
+    {
+      "name": "Cool Hat",
+      "points": 100
+    },
+    {
+      "name": "Mighty Axe",
+      "points": 300
+    },
+    {
+      "name": "Formal Jacket",
+      "points": 80
+    },
+    {
+      "name": "Clean Pants",
+      "points": 150
+    },
+    {
+      "name": "Shinny Shoes",
+      "points": 90
+    }
+  ]
+}

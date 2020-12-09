@@ -1,0 +1,26 @@
+{
+  "name": "Weird Guy",
+  "description": "He is frequently described as weird, eccentric, and mysterious. Mira gives him the nickname 'Weirdie' which he likes. He can furthermore be described as theatrical, charismatic, and playful.",
+  "equipment": [
+    {
+      "name": "Great Ginger",
+      "points": 150
+    },
+    {
+      "name": "Bare Hand",
+      "points": 60
+    },
+    {
+      "name": "Always Red",
+      "points": 100
+    },
+    {
+      "name": "Pajama",
+      "points": 190
+    },
+    {
+      "name": "All Stars",
+      "points": 30
+    }
+  ]
+}
