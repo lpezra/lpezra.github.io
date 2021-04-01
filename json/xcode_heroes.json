@@ -1,0 +1,28 @@
+{
+	"heroes": [{
+			"id": "c201",
+			"name": "Travolta",
+			"email": "travolta@email.com"
+		},
+		{
+			"id": "c202",
+			"name": "Penny",
+			"email": "penny@email.com"
+		},
+		{
+			"id": "c203",
+			"name": "Holla",
+			"email": "hola@email.com"
+		},
+		{
+			"id": "c204",
+			"name": "Jonny",
+			"email": "jony@email.com"
+		},
+		{
+			"id": "c205",
+			"name": "Eppa",
+			"email": "eppa@email.com"
+		}
+	]
+}

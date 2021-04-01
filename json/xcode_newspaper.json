@@ -1,0 +1,23 @@
+{
+	"news": [{
+			"name": "el pais",
+			"url": "https://elpais.com/"
+		},
+		{
+			"name": "el mundo",
+			"url": "https://www.elmundo.es/"
+		},
+		{
+			"name": "la vanguardia",
+			"url": "https://www.lavanguardia.com/"
+		},
+		{
+			"name": "marca",
+			"url": "https://www.marca.com/"
+		},
+		{
+			"name": "la provincia",
+			"url": "https://www.laprovincia.es/"
+		}
+	]
+}
